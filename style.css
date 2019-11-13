@@ -14,21 +14,22 @@
 }
 
 .content {
-  margin: 3rem 5rem;
-}
-
-.content #logo {
-  margin-bottom: 3rem;
+  margin: 3rem 10rem;
 }
 
 .content .headers {
   letter-spacing: 10px;
   font-size: 4rem;
+  margin: 7rem 0 1rem 0;
 }
 
 .content .headers #header1 {
   font-style: normal;
   color: #ce9797;
+}
+
+.content #email_box {
+  margin-top: 2rem;
 }
 
 .attribution {
